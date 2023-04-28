@@ -1,0 +1,15 @@
+C:\Users\IvanFox\RiderProjects\SnackMachine\SnackMachine\obj\Debug\net7.0\SnackMachine.csproj.AssemblyReference.cache
+C:\Users\IvanFox\RiderProjects\SnackMachine\SnackMachine\obj\Debug\net7.0\SnackMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IvanFox\RiderProjects\SnackMachine\SnackMachine\obj\Debug\net7.0\SnackMachine.AssemblyInfoInputs.cache
+C:\Users\IvanFox\RiderProjects\SnackMachine\SnackMachine\obj\Debug\net7.0\SnackMachine.AssemblyInfo.cs
+C:\Users\IvanFox\RiderProjects\SnackMachine\SnackMachine\obj\Debug\net7.0\SnackMachine.csproj.CoreCompileInputs.cache
+C:\Users\IvanFox\RiderProjects\SnackMachine\SnackMachine\bin\Debug\net7.0\SnackMachine.exe
+C:\Users\IvanFox\RiderProjects\SnackMachine\SnackMachine\bin\Debug\net7.0\SnackMachine.deps.json
+C:\Users\IvanFox\RiderProjects\SnackMachine\SnackMachine\bin\Debug\net7.0\SnackMachine.runtimeconfig.json
+C:\Users\IvanFox\RiderProjects\SnackMachine\SnackMachine\bin\Debug\net7.0\SnackMachine.dll
+C:\Users\IvanFox\RiderProjects\SnackMachine\SnackMachine\bin\Debug\net7.0\SnackMachine.pdb
+C:\Users\IvanFox\RiderProjects\SnackMachine\SnackMachine\obj\Debug\net7.0\SnackMachine.dll
+C:\Users\IvanFox\RiderProjects\SnackMachine\SnackMachine\obj\Debug\net7.0\refint\SnackMachine.dll
+C:\Users\IvanFox\RiderProjects\SnackMachine\SnackMachine\obj\Debug\net7.0\SnackMachine.pdb
+C:\Users\IvanFox\RiderProjects\SnackMachine\SnackMachine\obj\Debug\net7.0\SnackMachine.genruntimeconfig.cache
+C:\Users\IvanFox\RiderProjects\SnackMachine\SnackMachine\obj\Debug\net7.0\ref\SnackMachine.dll
